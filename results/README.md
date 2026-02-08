@@ -15,6 +15,7 @@ These are reference freqbench results that have been collected from various devi
 | exynos7904 | E7904     | Exynos 7904     | Samsung Galaxy M20      | Unknown  |
 | exynos7880 | E7880     | Exynos 7880     | Samsung Galaxy A5 (2017)| Low      |
 | exynos9611 | E9610     | Exynos 9611     | Samsung Galaxy M21      | Unknown  |
+| exynos9820 | E9820     | Exynos 9820     | Samsung Galaxy S10      | Unknown  |
 | msm8917    | MSM8917   | Snapdragon 425  | Xiaomi Redmi 5A         | Unknown  |
 | msm8940    | MSM8940   | Snapdragon 435  | Xiaomi Redmi 4X         | Unknown  |
 | msm8953    | MSM8953   | Snapdragon 625  | Xiaomi Redmi Note 4X    | Unknown  |
